@@ -1,3 +1,3 @@
-# LuckyFit App
+# LuckyFit Index
 
-![Logo](misc/logo.png?raw=true "App Logo")
+![Logo](misc/logo.png?raw=true "Index Logo")
